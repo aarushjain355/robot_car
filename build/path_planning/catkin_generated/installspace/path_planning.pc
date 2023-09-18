@@ -1,0 +1,8 @@
+prefix=/home/aarush/robot_car/install
+
+Name: path_planning
+Description: Description of path_planning
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

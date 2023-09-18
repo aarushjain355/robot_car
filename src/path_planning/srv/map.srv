@@ -1,0 +1,3 @@
+nav_msgs/OccupancyGrid map_msg
+---
+int64 ok

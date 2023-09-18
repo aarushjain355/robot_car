@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/aarush/robot_car/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/aarush/robot_car/src/turtlebot3/turtlebot3_slam/include/**",
+        "/home/aarush/robot_car/src/usb_cam/include/**",
+        "/home/aarush/robot_car/src/vision/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

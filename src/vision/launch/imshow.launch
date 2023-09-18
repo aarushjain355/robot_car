@@ -1,0 +1,6 @@
+<launch>
+
+<node name = "webcam" pkg="vision" type="image_publisher.py" output="screen" respawn="true"/>
+<node name ="subscribe" pkg="vision" type="image_classifier.py" output="screen" respawn="true"/>
+
+</launch>

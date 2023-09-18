@@ -1,0 +1,39 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/aarush/robot_car/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/aarush/robot_car/src/navigation/amcl/include/**",
+        "/home/aarush/robot_car/src/navigation/base_local_planner/include/**",
+        "/home/aarush/robot_car/src/navigation/carrot_planner/include/**",
+        "/home/aarush/robot_car/src/navigation/clear_costmap_recovery/include/**",
+        "/home/aarush/robot_car/src/navigation/costmap_2d/include/**",
+        "/home/aarush/robot_car/src/navigation/dwa_local_planner/include/**",
+        "/home/aarush/robot_car/src/navigation/global_planner/include/**",
+        "/home/aarush/robot_car/src/navigation/map_server/include/**",
+        "/home/aarush/robot_car/src/navigation/move_base/include/**",
+        "/home/aarush/robot_car/src/navigation/move_slow_and_clear/include/**",
+        "/home/aarush/robot_car/src/navigation/nav_core/include/**",
+        "/home/aarush/robot_car/src/navigation/navfn/include/**",
+        "/home/aarush/robot_car/src/path_planning/include/**",
+        "/home/aarush/robot_car/src/navigation/rotate_recovery/include/**",
+        "/home/aarush/robot_car/src/turtlebot3/turtlebot3_slam/include/**",
+        "/home/aarush/robot_car/src/usb_cam/include/**",
+        "/home/aarush/robot_car/src/vision/include/**",
+        "/home/aarush/robot_car/src/navigation/voxel_grid/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

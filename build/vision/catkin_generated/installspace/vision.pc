@@ -1,0 +1,8 @@
+prefix=/home/aarush/robot_car/install
+
+Name: vision
+Description: Description of vision
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
